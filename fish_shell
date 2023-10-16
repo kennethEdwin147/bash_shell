@@ -1,6 +1,7 @@
 # changer mdp
 ​sudo su root
 passwd
+passwd username
 
 # installer fish 
 sudo apt-get install fish
