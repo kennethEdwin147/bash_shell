@@ -1,3 +1,7 @@
 # changer mdp
 ​sudo su root
 passwd
+
+# installer fish 
+sudo apt-get install fish
+sudo chsh -s $(which fish) user_name
