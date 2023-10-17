@@ -6,3 +6,7 @@ passwd username
 # installer fish 
 sudo apt-get install fish
 sudo chsh -s $(which fish) user_name
+
+# https://fishshell.com/docs/current/tutorial.html
+# configurer
+cat ~/.config/fish/config.fish
